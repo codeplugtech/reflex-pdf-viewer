@@ -17,6 +17,7 @@ dependencies = ["reflex>=0.8.10"]
 classifiers = ["Development Status :: 4 - Beta"]
 
 [project.urls]
+homepage = "https://github.com/codeplugtech/reflex-pdf-viewer"
 
 [project.optional-dependencies]
 dev = ["build", "twine"]
