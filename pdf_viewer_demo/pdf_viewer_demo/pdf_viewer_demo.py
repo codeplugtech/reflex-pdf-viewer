@@ -46,7 +46,7 @@ def index() -> rx.Component:
                     Page.create(
                         page_number=State.current_page,
                     ),
-                    file="/pkpadmin,+1008-4741-1-CE (1).pdf",
+                    file="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",  # Pass your pdf here
                     on_load_success=State.load_success,
                 ),
                 page_control(),
