@@ -1,2 +1,1 @@
-
-reflex==0.8.10reflex-pdf-viewer
+reflex==0.8.10
