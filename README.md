@@ -24,7 +24,7 @@ class State(rx.State):
 
 def index():
     return rx.vstack(
-        rx.heading("My PDF Viewer", size="8"),
+        rx.heading("Reflex pdf preview", size="8"),
         Document.create(
             Page.create(page_number=State.current_page),
             file="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
