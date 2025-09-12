@@ -1,5 +1,5 @@
 import reflex as rx
-from reflex_pdf_viewer.pdf_viewer import Document, Page
+from reflex_pdf_viewer import Document, Page
 
 
 class State(rx.State):
