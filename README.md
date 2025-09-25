@@ -51,7 +51,7 @@ config = rx.Config(
 
 ## 📝 Changelog
 
-### v0.0.1 (2024-12-09)
+### v0.0.1 (2025-12-09)
 - Initial release
 - Basic PDF viewing functionality
 - Page navigation support
@@ -63,8 +63,8 @@ config = rx.Config(
 
 If you encounter any issues or have questions:
 
-1. Check the [GitHub Issues](https://github.com/yourusername/reflex-pdf-viewer/issueshttps://github.com/reflex-dev/reflex/issues)
-2. Join the [Reflex Discord](https://discord.gg/T5WSbC2YtQhttps://discord.com/invite/T5WSbC2YtQ) community
+1. Check the [GitHub Issues](https://github.com/codeplugtech/reflex-pdf-viewer/issues)
+2. Join the [Reflex Discord](https://discord.com/channels/1029853095527727165) community
 3. Create a new issue with detailed information
 
 
