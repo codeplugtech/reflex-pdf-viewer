@@ -13,6 +13,7 @@ def _load_success_signature(
 
 class Document(ReactPDF):
     tag = "Document"
+    loading: str
 
     file: str
     on_load_success: rx.EventHandler[_load_success_signature]
