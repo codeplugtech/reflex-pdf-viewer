@@ -59,6 +59,9 @@ config = rx.Config(
 - Error handling
 - Loading states
 
+### v0.0.2 (2025-11-01)
+- Added loading prop to avoid failed to load pdf issue
+
 ## 🐛 Issues & Support
 
 If you encounter any issues or have questions:
