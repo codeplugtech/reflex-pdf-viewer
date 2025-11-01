@@ -51,13 +51,16 @@ config = rx.Config(
 
 ## 📝 Changelog
 
-### v0.0.1 (2024-12-09)
+### v0.0.1 (2025-12-09)
 - Initial release
 - Basic PDF viewing functionality
 - Page navigation support
 - Zoom controls
 - Error handling
 - Loading states
+
+### v0.0.2 (2025-11-01)
+- Added loading prop to avoid failed to load pdf issue
 
 ## 🐛 Issues & Support
 

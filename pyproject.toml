@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "reflex-pdf-viewer"
-version = "0.0.1"
+version = "0.0.2"
 description = "Reflex custom component pdf-viewer"
 readme = "README.md"
 license = { text = "Apache-2.0" }
