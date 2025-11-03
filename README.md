@@ -44,7 +44,7 @@ import reflex as rx
 config = rx.Config(
     app_name="your_app",
     frontend_packages=[
-        "react-pdf@10.1.0",  # Required for PDF viewing
+        "react-pdf@9.1.1",  # Required for PDF viewing
     ],
 )
 ```
@@ -61,6 +61,9 @@ config = rx.Config(
 
 ### v0.0.2 (2025-11-01)
 - Added loading prop to avoid failed to load pdf issue
+
+### v0.0.3 (2025-11-03)
+- Fixed ssr issue while reflex build
 
 ## 🐛 Issues & Support
 
